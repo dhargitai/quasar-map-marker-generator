@@ -1,0 +1,31 @@
+{
+  "name": "quasar-map-marker-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12",
+    "quasar-extras": "^2.0.4",
+    "quasar-framework": "^0.17.0",
+    "vue": "^2.5.21",
+    "vue-html2canvas": "0.0.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-plugin-eslint": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-imports": "1.5.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-quasar": "^0.17.1",
+    "vue-svg-inline-loader": "^1.2.10",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
