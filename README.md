@@ -1,29 +1,11 @@
-# icon-generator
 
-## Project setup
-```
-npm install
-```
+Working demo: https://map-marker-generator.firebaseapp.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Learning project: Map Marker Generator
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Features
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Built with Vue (Quasar framework)
+- Image (icon) generation is completely on the client-side, no server required
+- Creates image processing queue by using asynchronous nested promise chain
+- Hosted on Firebase Hosting
